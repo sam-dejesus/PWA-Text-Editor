@@ -1,15 +1,15 @@
 # PWA Text Editor
 
 ## Description
-the purpose of the PWA Text Editor is to showcase the power of PWA to the user. with this application the user will be able to interact with a text editor known as J.A.T.E (Just another text editor) they would be to write, edit, and delete text that will be save to the users browser in the indexDB. the application has a service worker that will allow the user to continue to use the application regardless of web connection. The user will also be allowed to install the application from the webstie.
+the purpose of the PWA Text Editor is to showcase the power of PWA to the user. with this application the user will be able to interact with a text editor known as J.A.T.E (Just another text editor) they would be to write, edit, and delete text that will be save to the users browser in the indexDB. the application has a service worker that will allow the user to continue to use the application regardless of web connection. The user will also be allowed to install the application from the website.
 
 ## Usage
-To use this application 
+When the user opens the webpage they will be able to start utilizing the text editor. whatever the user types will be automatically saved in the indexDB the user will be able to update and delete text at any time. if the users internet connection goes out they will still have access to the webpage due to the service worker if the user wishes to install the the PWA they can click the install button which will prompt them if they wish to continue. if the user clicks install the app will be installed in their computer.
 
 ## Demo 
 To interact with the website click [here]()
-here afre some pictures of the website 
-![]()
+here are some pictures of the website 
+![webpage](./images/127.0.0.1_5500_Develop_client_dist_index.html.png)
 ![]()
 ![]()
 
