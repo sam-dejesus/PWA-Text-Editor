@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "index",
-  "short_name": "index",
+  "name": "J.A.T.E",
+  "short_name": "J.A.T.E",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
